@@ -1,0 +1,13 @@
+function Log_LK_MSA=Likelihood_MSA(MSA,tList,mu,lamda)
+    BlkList=Blocking(MSA);
+    Log_LK_MSA=0;
+    for i=1:size(BlkList,1)
+        Selection=BlkList{i}
+        
+        if i==1
+          Log_LK_MSA=Log_LK_MSA+log(Lk_imBlock(Selection,mu,lamda,tList)
+        else
+            
+    end
+    
+end
