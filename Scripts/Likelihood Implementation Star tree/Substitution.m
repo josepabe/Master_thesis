@@ -10,14 +10,14 @@ function subProb=Substitution(block,tList)
     Prob1=1;
     subProb=0;
     for i=1:size(set,2)
-        parent=set(i)
+        parent=set(i);
         for j=1:size(block,2)
-            col=block(:,j)
-            ti=find(col~='-')
+            col=block(:,j);
+            ti=find(col~='-');
             if j==1
                 for k=1:length(ti)
-                    t=ti(k)
-                    bL=tList(t)
+                    t=ti(k);
+                    bL=tList(t);
                     if col(t,1)==parent
                         prob=exp(-u*bL)+((1-exp(-u*bL))*trans);
                     else

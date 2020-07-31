@@ -8,25 +8,25 @@ function LK=LK_Block(Block,mu,lamda,tList)
 % tList= list of divergence times
 
     LK=0;
-    n=size(Block,2)
-    start=(2^(n-1))%bi2de(cat(2,1,repmat(0,1,n-1)),'left-msb')
-    stop=(2^n)-1 %bi2de(repmat(1,1,n),'left-msb')
+    n=size(Block,2);
+    start=(2^(n-1));%bi2de(cat(2,1,repmat(0,1,n-1)),'left-msb')
+    stop=(2^n)-1; %bi2de(repmat(1,1,n),'left-msb')
     anc=[];
     
     for i=start:stop
-        anc=[anc;de2bi(i,'left-msb')]
+        anc=[anc;de2bi(i,'left-msb')];
     end
     
     for m=1:size(anc,1)
-        nseq=sum(anc(m,:)~='-')
-        block=[anc(m,:);Block]
+        nseq=sum(anc(m,:)~='-');
+        block=[anc(m,:);Block];
         b=subblocking(block);
         prob_col=1;
         sub_col=1;
         for n=1:size(b,1)
             leav=b{n}(2:end,:)
-            prob_col=prob_col*col_prob(leav,tList,mu,lamda)
-            sub_col=sub_col*Substitution(leav,tList)
+            prob_col=prob_col*col_prob(leav,tList,mu,lamda);
+            sub_col=sub_col*Substitution(leav,tList);
         end
         gamma=(lamda/mu)^nseq;
         LK=LK+(gamma*prob_col*sub_col);

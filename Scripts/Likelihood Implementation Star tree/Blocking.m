@@ -3,7 +3,7 @@ function [im_block,Block_List]=Blocking(MSA)
 % inputs:
 % MSA= Sequence alignment
 
-    sum_vec=sum(MSA~='-',1)
+    sum_vec=sum(MSA~='-',1);
     inx=find(sum_vec>=2);
     im_block=[];
     Block_List=[];

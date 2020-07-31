@@ -14,39 +14,39 @@ function LK_im=Lk_imBlock(Block,mu,lamda,tList)
         anc=[0;1];
     else
         for i=0:(stop-1)
-            anc=[anc;de2bi(i,'left-msb',n)];
+            anc=[anc;de2bi(i,'left-msb',n)]
         end
     end
     
     LK_im=0;
     
     for i=1:size(anc,1)
-        [im_block,block]=Split_im(anc(i,:),Block);
+        [im_block,block]=Split_im(anc(i,:),Block)
                  
          
-            prob_im=imm_prob(im_block(2:end,:),tList,mu,lamda);
-            geom_im=(1-(lamda/mu));
+            prob_im=imm_prob(im_block(2:end,:),tList,mu,lamda)
+            geom_im=(1-(lamda/mu))
             prob_im=prob_im*geom_im;
-            sub_probim=0.25^size(im_block,2);            
+            sub_probim=0.25^size(im_block,2)            
          
          
          
          if ~isempty(block)
              par=sum(block(1,:)~='-');
              geom=(lamda/mu)^par;
-             b=subblocking(block);
+             b=subblocking(block)
              prob_col=1;
              sub_col=1;
              for n=1:size(b,1)
-                leav=b{n}(2:end,:);
-                prob_col=prob_col*col_prob(leav,tList,mu,lamda);
-                sub_col=sub_col*Substitution(leav,tList);
+                leav=b{n}(2:end,:)
+                prob_col=prob_col*col_prob(leav,tList,mu,lamda)
+                sub_col=sub_col*Substitution(leav,tList)
              end
              
-             LK_im=LK_im+(geom*prob_im*sub_probim*prob_col*sub_col);
+             LK_im=LK_im+(geom*prob_im*sub_probim*prob_col*sub_col)
          else
              
-             LK_im=LK_im+(prob_im*sub_probim);
+             LK_im=LK_im+(prob_im*sub_probim)
          end
                  
     end

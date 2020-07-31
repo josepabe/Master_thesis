@@ -17,16 +17,16 @@ p=1;
 
 % Computing the likelihood of the immortal block
 if ~isempty(im_block)
-    Selection=im_block{1}
-    Log_LK_MSA=Log_LK_MSA+log(Lk_imBlock(Selection,mu,lamda,tList))
+    Selection=im_block{1};
+    Log_LK_MSA=Log_LK_MSA+log(Lk_imBlock(Selection,mu,lamda,tList));
 else
-    Log_LK_MSA=Log_LK_MSA+log(imm_prob(im_block,tList,mu,lamda))
+    Log_LK_MSA=Log_LK_MSA+log(imm_prob(im_block,tList,mu,lamda));
 end
 
 % Computing the likelihood of the all mortal blocks
 for i=1:size(BlkList,1)
-    Selection=BlkList{i}
-    Log_LK_MSA=Log_LK_MSA+log(LK_Block(Selection,mu,lamda,tList))
+    Selection=BlkList{i};
+    Log_LK_MSA=Log_LK_MSA+log(LK_Block(Selection,mu,lamda,tList));
 end
 
 % Accounting for all died out ancestral links
@@ -38,6 +38,6 @@ end
 p_hidden=1/(1-(lamda*p/mu));
 
 % Final likelihood
-Log_LK_MSA=Log_LK_MSA+log(p_hidden)
+Log_LK_MSA=Log_LK_MSA+log(p_hidden);
 
 end
