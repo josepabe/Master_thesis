@@ -1,0 +1,2380 @@
+main() {
+  Execution directory: D:\Study\Thesis\Seq\PIPJava\state\execs\8.exec
+  Tree: {
+    internal2
+    |        
+    +--------------+
+    |              |             
+    internal0:0.25 internal1:0.25
+    |              |             
+    +-----+        +-----+
+    |     |        |     |    
+    A:0.5 C:0.5    B:0.5 D:0.5
+                              
+                         
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	53.0
+      MSAAligned	0.8810254211197606
+      MSAIdentity	0.3713242732110657
+      TreeHeight	0.75
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8810254211197606
+    MSAIdentity	0.3713242732110657
+    SequencesMeanLen	53.0
+    TreeHeight	0.75
+  }
+  Identity percentiles: {
+    5.0	0.3713242732110657
+    25.0	0.3713242732110657
+    50.0	0.3713242732110657
+    75.0	0.3713242732110657
+    95.0	0.3713242732110657
+  }
+  Tree: {
+    internal2
+    |        
+    +--------------+
+    |              |             
+    internal0:0.25 internal1:0.25
+    |              |             
+    +-----+        +-----+
+    |     |        |     |    
+    A:0.5 C:0.5    B:0.5 D:0.5
+                              
+                         
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	500.75
+      MSAAligned	0.8575217302156541
+      MSAIdentity	0.36564568693393246
+      TreeHeight	0.75
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8575217302156541
+    MSAIdentity	0.36564568693393246
+    SequencesMeanLen	500.75
+    TreeHeight	0.75
+  }
+  Identity percentiles: {
+    5.0	0.36564568693393246
+    25.0	0.36564568693393246
+    50.0	0.36564568693393246
+    75.0	0.36564568693393246
+    95.0	0.36564568693393246
+  }
+  Tree: {
+    internal2
+    |        
+    +--------------+
+    |              |             
+    internal0:0.25 internal1:0.25
+    |              |             
+    +-----+        +-----+
+    |     |        |     |    
+    A:0.5 C:0.5    B:0.5 D:0.5
+                              
+                         
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4984.75
+      MSAAligned	0.8760733847842461
+      MSAIdentity	0.37126360276055403
+      TreeHeight	0.75
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8760733847842461
+    MSAIdentity	0.37126360276055403
+    SequencesMeanLen	4984.75
+    TreeHeight	0.75
+  }
+  Identity percentiles: {
+    5.0	0.37126360276055403
+    25.0	0.37126360276055403
+    50.0	0.37126360276055403
+    75.0	0.37126360276055403
+    95.0	0.37126360276055403
+  }
+  Tree: {
+    internal2
+    |        
+    +-------------------+
+    |                   |     
+    internal1:0.25      D:0.25
+    |                         
+    +-------------+     
+    |             |    
+    internal0:0.5 B:0.5
+    |                  
+    +-----+       
+    |     |    
+    A:0.5 C:0.5
+               
+          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	51.5
+      MSAAligned	0.8937691173335429
+      MSAIdentity	0.3461367452964092
+      TreeHeight	1.25
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8937691173335429
+    MSAIdentity	0.3461367452964092
+    SequencesMeanLen	51.5
+    TreeHeight	1.25
+  }
+  Identity percentiles: {
+    5.0	0.3461367452964092
+    25.0	0.3461367452964092
+    50.0	0.3461367452964092
+    75.0	0.3461367452964092
+    95.0	0.3461367452964092
+  }
+  Tree: {
+    internal2
+    |        
+    +-------------------+
+    |                   |     
+    internal1:0.25      D:0.25
+    |                         
+    +-------------+     
+    |             |    
+    internal0:0.5 B:0.5
+    |                  
+    +-----+       
+    |     |    
+    A:0.5 C:0.5
+               
+          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	508.75
+      MSAAligned	0.8774656460346778
+      MSAIdentity	0.3735942662716329
+      TreeHeight	1.25
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8774656460346778
+    MSAIdentity	0.3735942662716329
+    SequencesMeanLen	508.75
+    TreeHeight	1.25
+  }
+  Identity percentiles: {
+    5.0	0.3735942662716329
+    25.0	0.3735942662716329
+    50.0	0.3735942662716329
+    75.0	0.3735942662716329
+    95.0	0.3735942662716329
+  }
+  Tree: {
+    internal2
+    |        
+    +-------------------+
+    |                   |     
+    internal1:0.25      D:0.25
+    |                         
+    +-------------+     
+    |             |    
+    internal0:0.5 B:0.5
+    |                  
+    +-----+       
+    |     |    
+    A:0.5 C:0.5
+               
+          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4954.5
+      MSAAligned	0.8778114813752905
+      MSAIdentity	0.3610086640734777
+      TreeHeight	1.25
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  } [1.0s, cum. 3.8s]
+  GlobalStatistics: {
+    MSAAligned	0.8778114813752905
+    MSAIdentity	0.3610086640734777
+    SequencesMeanLen	4954.5
+    TreeHeight	1.25
+  }
+  Identity percentiles: {
+    5.0	0.3610086640734777
+    25.0	0.3610086640734777
+    50.0	0.3610086640734777
+    75.0	0.3610086640734777
+    95.0	0.3610086640734777
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.178 internal1:0.178
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.357 C:0.714 B:0.714 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	47.75
+      MSAAligned	0.8184966436585307
+      MSAIdentity	0.35610278943997725
+      TreeHeight	0.5349999999999999
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8184966436585307
+    MSAIdentity	0.35610278943997725
+    SequencesMeanLen	47.75
+    TreeHeight	0.5349999999999999
+  }
+  Identity percentiles: {
+    5.0	0.35610278943997725
+    25.0	0.35610278943997725
+    50.0	0.35610278943997725
+    75.0	0.35610278943997725
+    95.0	0.35610278943997725
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.178 internal1:0.178
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.357 C:0.714 B:0.714 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	498.0
+      MSAAligned	0.8856257658285988
+      MSAIdentity	0.38128174264386033
+      TreeHeight	0.5349999999999999
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8856257658285988
+    MSAIdentity	0.38128174264386033
+    SequencesMeanLen	498.0
+    TreeHeight	0.5349999999999999
+  }
+  Identity percentiles: {
+    5.0	0.38128174264386033
+    25.0	0.38128174264386033
+    50.0	0.38128174264386033
+    75.0	0.38128174264386033
+    95.0	0.38128174264386033
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.178 internal1:0.178
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.357 C:0.714 B:0.714 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4987.5
+      MSAAligned	0.8804039391718134
+      MSAIdentity	0.3666875580630103
+      TreeHeight	0.5349999999999999
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8804039391718134
+    MSAIdentity	0.3666875580630103
+    SequencesMeanLen	4987.5
+    TreeHeight	0.5349999999999999
+  }
+  Identity percentiles: {
+    5.0	0.3666875580630103
+    25.0	0.3666875580630103
+    50.0	0.3666875580630103
+    75.0	0.3666875580630103
+    95.0	0.3666875580630103
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.114 internal1:0.114
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.227 C:0.909 B:0.909 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	51.0
+      MSAAligned	0.8732084028579985
+      MSAIdentity	0.4355528374871962
+      TreeHeight	0.341
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8732084028579985
+    MSAIdentity	0.4355528374871962
+    SequencesMeanLen	51.0
+    TreeHeight	0.341
+  }
+  Identity percentiles: {
+    5.0	0.4355528374871962
+    25.0	0.4355528374871962
+    50.0	0.4355528374871962
+    75.0	0.4355528374871962
+    95.0	0.4355528374871962
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.114 internal1:0.114
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.227 C:0.909 B:0.909 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	493.0
+      MSAAligned	0.8814216110700241
+      MSAIdentity	0.3850868009999396
+      TreeHeight	0.341
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8814216110700241
+    MSAIdentity	0.3850868009999396
+    SequencesMeanLen	493.0
+    TreeHeight	0.341
+  }
+  Identity percentiles: {
+    5.0	0.3850868009999396
+    25.0	0.3850868009999396
+    50.0	0.3850868009999396
+    75.0	0.3850868009999396
+    95.0	0.3850868009999396
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.114 internal1:0.114
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.227 C:0.909 B:0.909 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	5019.5
+      MSAAligned	0.879506491123257
+      MSAIdentity	0.38725895175750913
+      TreeHeight	0.341
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.879506491123257
+    MSAIdentity	0.38725895175750913
+    SequencesMeanLen	5019.5
+    TreeHeight	0.341
+  }
+  Identity percentiles: {
+    5.0	0.38725895175750913
+    25.0	0.38725895175750913
+    50.0	0.38725895175750913
+    75.0	0.38725895175750913
+    95.0	0.38725895175750913
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.084 internal1:0.084
+    |               |              
+    +-------+       +-----+
+    |       |       |     |      
+    A:0.167 C:1.0   B:1.0 D:0.167
+                                 
+                          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	48.75
+      MSAAligned	0.8856578376031263
+      MSAIdentity	0.406356925749023
+      TreeHeight	0.251
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8856578376031263
+    MSAIdentity	0.406356925749023
+    SequencesMeanLen	48.75
+    TreeHeight	0.251
+  }
+  Identity percentiles: {
+    5.0	0.406356925749023
+    25.0	0.406356925749023
+    50.0	0.406356925749023
+    75.0	0.406356925749023
+    95.0	0.406356925749023
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.084 internal1:0.084
+    |               |              
+    +-------+       +-----+
+    |       |       |     |      
+    A:0.167 C:1.0   B:1.0 D:0.167
+                                 
+                          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	496.5
+      MSAAligned	0.8750863519185814
+      MSAIdentity	0.39081718360677964
+      TreeHeight	0.251
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8750863519185814
+    MSAIdentity	0.39081718360677964
+    SequencesMeanLen	496.5
+    TreeHeight	0.251
+  }
+  Identity percentiles: {
+    5.0	0.39081718360677964
+    25.0	0.39081718360677964
+    50.0	0.39081718360677964
+    75.0	0.39081718360677964
+    95.0	0.39081718360677964
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.084 internal1:0.084
+    |               |              
+    +-------+       +-----+
+    |       |       |     |      
+    A:0.167 C:1.0   B:1.0 D:0.167
+                                 
+                          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	5011.25
+      MSAAligned	0.8835269201798907
+      MSAIdentity	0.3896952601208556
+      TreeHeight	0.251
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8835269201798907
+    MSAIdentity	0.3896952601208556
+    SequencesMeanLen	5011.25
+    TreeHeight	0.251
+  }
+  Identity percentiles: {
+    5.0	0.3896952601208556
+    25.0	0.3896952601208556
+    50.0	0.3896952601208556
+    75.0	0.3896952601208556
+    95.0	0.3896952601208556
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.178         D:0.178
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 B:0.714
+    |                      
+    +-------+       
+    |       |      
+    A:0.357 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	50.5
+      MSAAligned	0.8645535341796292
+      MSAIdentity	0.3812305063869519
+      TreeHeight	0.8919999999999999
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8645535341796292
+    MSAIdentity	0.3812305063869519
+    SequencesMeanLen	50.5
+    TreeHeight	0.8919999999999999
+  }
+  Identity percentiles: {
+    5.0	0.3812305063869519
+    25.0	0.3812305063869519
+    50.0	0.3812305063869519
+    75.0	0.3812305063869519
+    95.0	0.3812305063869519
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.178         D:0.178
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 B:0.714
+    |                      
+    +-------+       
+    |       |      
+    A:0.357 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	509.75
+      MSAAligned	0.8770949581746068
+      MSAIdentity	0.37723462420994225
+      TreeHeight	0.8919999999999999
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8770949581746068
+    MSAIdentity	0.37723462420994225
+    SequencesMeanLen	509.75
+    TreeHeight	0.8919999999999999
+  }
+  Identity percentiles: {
+    5.0	0.37723462420994225
+    25.0	0.37723462420994225
+    50.0	0.37723462420994225
+    75.0	0.37723462420994225
+    95.0	0.37723462420994225
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.178         D:0.178
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 B:0.714
+    |                      
+    +-------+       
+    |       |      
+    A:0.357 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4990.5
+      MSAAligned	0.8748822256252795
+      MSAIdentity	0.360757469134463
+      TreeHeight	0.8919999999999999
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8748822256252795
+    MSAIdentity	0.360757469134463
+    SequencesMeanLen	4990.5
+    TreeHeight	0.8919999999999999
+  }
+  Identity percentiles: {
+    5.0	0.360757469134463
+    25.0	0.360757469134463
+    50.0	0.360757469134463
+    75.0	0.360757469134463
+    95.0	0.360757469134463
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.114         D:0.114
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 B:0.909
+    |                      
+    +-------+       
+    |       |      
+    A:0.227 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	48.5
+      MSAAligned	0.9143870314083078
+      MSAIdentity	0.43689390649876964
+      TreeHeight	0.5680000000000001
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.9143870314083078
+    MSAIdentity	0.43689390649876964
+    SequencesMeanLen	48.5
+    TreeHeight	0.5680000000000001
+  }
+  Identity percentiles: {
+    5.0	0.43689390649876964
+    25.0	0.43689390649876964
+    50.0	0.43689390649876964
+    75.0	0.43689390649876964
+    95.0	0.43689390649876964
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.114         D:0.114
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 B:0.909
+    |                      
+    +-------+       
+    |       |      
+    A:0.227 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	496.0
+      MSAAligned	0.8745714259919388
+      MSAIdentity	0.37585332383892517
+      TreeHeight	0.5680000000000001
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8745714259919388
+    MSAIdentity	0.37585332383892517
+    SequencesMeanLen	496.0
+    TreeHeight	0.5680000000000001
+  }
+  Identity percentiles: {
+    5.0	0.37585332383892517
+    25.0	0.37585332383892517
+    50.0	0.37585332383892517
+    75.0	0.37585332383892517
+    95.0	0.37585332383892517
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.114         D:0.114
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 B:0.909
+    |                      
+    +-------+       
+    |       |      
+    A:0.227 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4991.5
+      MSAAligned	0.8805130137745598
+      MSAIdentity	0.38933230205822295
+      TreeHeight	0.5680000000000001
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8805130137745598
+    MSAIdentity	0.38933230205822295
+    SequencesMeanLen	4991.5
+    TreeHeight	0.5680000000000001
+  }
+  Identity percentiles: {
+    5.0	0.38933230205822295
+    25.0	0.38933230205822295
+    50.0	0.38933230205822295
+    75.0	0.38933230205822295
+    95.0	0.38933230205822295
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------------+
+    |                     |      
+    internal1:0.084       D:0.084
+    |                            
+    +---------------+     
+    |               |    
+    internal0:0.167 B:1.0
+    |                    
+    +-------+       
+    |       |    
+    A:0.167 C:1.0
+                 
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	52.75
+      MSAAligned	0.8610336268669602
+      MSAIdentity	0.4069045152378486
+      TreeHeight	0.41800000000000004
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8610336268669602
+    MSAIdentity	0.4069045152378486
+    SequencesMeanLen	52.75
+    TreeHeight	0.41800000000000004
+  }
+  Identity percentiles: {
+    5.0	0.4069045152378486
+    25.0	0.4069045152378486
+    50.0	0.4069045152378486
+    75.0	0.4069045152378486
+    95.0	0.4069045152378486
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------------+
+    |                     |      
+    internal1:0.084       D:0.084
+    |                            
+    +---------------+     
+    |               |    
+    internal0:0.167 B:1.0
+    |                    
+    +-------+       
+    |       |    
+    A:0.167 C:1.0
+                 
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	502.25
+      MSAAligned	0.8924940878253916
+      MSAIdentity	0.38764719105648837
+      TreeHeight	0.41800000000000004
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8924940878253916
+    MSAIdentity	0.38764719105648837
+    SequencesMeanLen	502.25
+    TreeHeight	0.41800000000000004
+  }
+  Identity percentiles: {
+    5.0	0.38764719105648837
+    25.0	0.38764719105648837
+    50.0	0.38764719105648837
+    75.0	0.38764719105648837
+    95.0	0.38764719105648837
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------------+
+    |                     |      
+    internal1:0.084       D:0.084
+    |                            
+    +---------------+     
+    |               |    
+    internal0:0.167 B:1.0
+    |                    
+    +-------+       
+    |       |    
+    A:0.167 C:1.0
+                 
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4972.75
+      MSAAligned	0.881878177583513
+      MSAIdentity	0.39117215840106323
+      TreeHeight	0.41800000000000004
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.881878177583513
+    MSAIdentity	0.39117215840106323
+    SequencesMeanLen	4972.75
+    TreeHeight	0.41800000000000004
+  }
+  Identity percentiles: {
+    5.0	0.39117215840106323
+    25.0	0.39117215840106323
+    50.0	0.39117215840106323
+    75.0	0.39117215840106323
+    95.0	0.39117215840106323
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.357         B:0.357
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 D:0.357
+    |                      
+    +-------+       
+    |       |      
+    A:0.357 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	48.0
+      MSAAligned	0.895833333333333
+      MSAIdentity	0.3263888888888889
+      TreeHeight	1.071
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.895833333333333
+    MSAIdentity	0.3263888888888889
+    SequencesMeanLen	48.0
+    TreeHeight	1.071
+  }
+  Identity percentiles: {
+    5.0	0.3263888888888889
+    25.0	0.3263888888888889
+    50.0	0.3263888888888889
+    75.0	0.3263888888888889
+    95.0	0.3263888888888889
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.357         B:0.357
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 D:0.357
+    |                      
+    +-------+       
+    |       |      
+    A:0.357 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	490.5
+      MSAAligned	0.8851634902459425
+      MSAIdentity	0.3735945745574096
+      TreeHeight	1.071
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8851634902459425
+    MSAIdentity	0.3735945745574096
+    SequencesMeanLen	490.5
+    TreeHeight	1.071
+  }
+  Identity percentiles: {
+    5.0	0.3735945745574096
+    25.0	0.3735945745574096
+    50.0	0.3735945745574096
+    75.0	0.3735945745574096
+    95.0	0.3735945745574096
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.357         B:0.357
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 D:0.357
+    |                      
+    +-------+       
+    |       |      
+    A:0.357 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4988.5
+      MSAAligned	0.877271566678103
+      MSAIdentity	0.369624095331672
+      TreeHeight	1.071
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.877271566678103
+    MSAIdentity	0.369624095331672
+    SequencesMeanLen	4988.5
+    TreeHeight	1.071
+  }
+  Identity percentiles: {
+    5.0	0.369624095331672
+    25.0	0.369624095331672
+    50.0	0.369624095331672
+    75.0	0.369624095331672
+    95.0	0.369624095331672
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.455         B:0.455
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 D:0.227
+    |                      
+    +-------+       
+    |       |      
+    A:0.227 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	45.0
+      MSAAligned	0.8667265850278993
+      MSAIdentity	0.36966352095270194
+      TreeHeight	0.909
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8667265850278993
+    MSAIdentity	0.36966352095270194
+    SequencesMeanLen	45.0
+    TreeHeight	0.909
+  }
+  Identity percentiles: {
+    5.0	0.36966352095270194
+    25.0	0.36966352095270194
+    50.0	0.36966352095270194
+    75.0	0.36966352095270194
+    95.0	0.36966352095270194
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.455         B:0.455
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 D:0.227
+    |                      
+    +-------+       
+    |       |      
+    A:0.227 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	493.75
+      MSAAligned	0.8821247010482762
+      MSAIdentity	0.3717707473802417
+      TreeHeight	0.909
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8821247010482762
+    MSAIdentity	0.3717707473802417
+    SequencesMeanLen	493.75
+    TreeHeight	0.909
+  }
+  Identity percentiles: {
+    5.0	0.3717707473802417
+    25.0	0.3717707473802417
+    50.0	0.3717707473802417
+    75.0	0.3717707473802417
+    95.0	0.3717707473802417
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.455         B:0.455
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 D:0.227
+    |                      
+    +-------+       
+    |       |      
+    A:0.227 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	5003.75
+      MSAAligned	0.8772124379844727
+      MSAIdentity	0.37780999560889217
+      TreeHeight	0.909
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8772124379844727
+    MSAIdentity	0.37780999560889217
+    SequencesMeanLen	5003.75
+    TreeHeight	0.909
+  }
+  Identity percentiles: {
+    5.0	0.37780999560889217
+    25.0	0.37780999560889217
+    50.0	0.37780999560889217
+    75.0	0.37780999560889217
+    95.0	0.37780999560889217
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |    
+    internal1:0.5           B:0.5
+    |                            
+    +---------------+       
+    |               |      
+    internal0:0.167 D:0.167
+    |                      
+    +-------+       
+    |       |    
+    A:0.167 C:1.0
+                 
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	54.0
+      MSAAligned	0.8735928967546615
+      MSAIdentity	0.40899311744899974
+      TreeHeight	0.8340000000000001
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8735928967546615
+    MSAIdentity	0.40899311744899974
+    SequencesMeanLen	54.0
+    TreeHeight	0.8340000000000001
+  }
+  Identity percentiles: {
+    5.0	0.40899311744899974
+    25.0	0.40899311744899974
+    50.0	0.40899311744899974
+    75.0	0.40899311744899974
+    95.0	0.40899311744899974
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |    
+    internal1:0.5           B:0.5
+    |                            
+    +---------------+       
+    |               |      
+    internal0:0.167 D:0.167
+    |                      
+    +-------+       
+    |       |    
+    A:0.167 C:1.0
+                 
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	510.0
+      MSAAligned	0.8936251266013702
+      MSAIdentity	0.4044804566766902
+      TreeHeight	0.8340000000000001
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8936251266013702
+    MSAIdentity	0.4044804566766902
+    SequencesMeanLen	510.0
+    TreeHeight	0.8340000000000001
+  }
+  Identity percentiles: {
+    5.0	0.4044804566766902
+    25.0	0.4044804566766902
+    50.0	0.4044804566766902
+    75.0	0.4044804566766902
+    95.0	0.4044804566766902
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |    
+    internal1:0.5           B:0.5
+    |                            
+    +---------------+       
+    |               |      
+    internal0:0.167 D:0.167
+    |                      
+    +-------+       
+    |       |    
+    A:0.167 C:1.0
+                 
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4999.0
+      MSAAligned	0.8853707982912223
+      MSAIdentity	0.3988551960943626
+      TreeHeight	0.8340000000000001
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8853707982912223
+    MSAIdentity	0.3988551960943626
+    SequencesMeanLen	4999.0
+    TreeHeight	0.8340000000000001
+  }
+  Identity percentiles: {
+    5.0	0.3988551960943626
+    25.0	0.3988551960943626
+    50.0	0.3988551960943626
+    75.0	0.3988551960943626
+    95.0	0.3988551960943626
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.178 internal1:0.178
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.714 C:0.714 B:0.357 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	48.0
+      MSAAligned	0.882555658627087
+      MSAIdentity	0.3668243661100804
+      TreeHeight	0.8919999999999999
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.882555658627087
+    MSAIdentity	0.3668243661100804
+    SequencesMeanLen	48.0
+    TreeHeight	0.8919999999999999
+  }
+  Identity percentiles: {
+    5.0	0.3668243661100804
+    25.0	0.3668243661100804
+    50.0	0.3668243661100804
+    75.0	0.3668243661100804
+    95.0	0.3668243661100804
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.178 internal1:0.178
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.714 C:0.714 B:0.357 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	503.5
+      MSAAligned	0.8825768931578486
+      MSAIdentity	0.37510117621962435
+      TreeHeight	0.8919999999999999
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8825768931578486
+    MSAIdentity	0.37510117621962435
+    SequencesMeanLen	503.5
+    TreeHeight	0.8919999999999999
+  }
+  Identity percentiles: {
+    5.0	0.37510117621962435
+    25.0	0.37510117621962435
+    50.0	0.37510117621962435
+    75.0	0.37510117621962435
+    95.0	0.37510117621962435
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.178 internal1:0.178
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.714 C:0.714 B:0.357 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4999.0
+      MSAAligned	0.8781597027049495
+      MSAIdentity	0.3633381335937714
+      TreeHeight	0.8919999999999999
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8781597027049495
+    MSAIdentity	0.3633381335937714
+    SequencesMeanLen	4999.0
+    TreeHeight	0.8919999999999999
+  }
+  Identity percentiles: {
+    5.0	0.3633381335937714
+    25.0	0.3633381335937714
+    50.0	0.3633381335937714
+    75.0	0.3633381335937714
+    95.0	0.3633381335937714
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.114 internal1:0.114
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.909 C:0.909 B:0.227 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	50.75
+      MSAAligned	0.8973953185262709
+      MSAIdentity	0.30561551543694404
+      TreeHeight	1.0230000000000001
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8973953185262709
+    MSAIdentity	0.30561551543694404
+    SequencesMeanLen	50.75
+    TreeHeight	1.0230000000000001
+  }
+  Identity percentiles: {
+    5.0	0.30561551543694404
+    25.0	0.30561551543694404
+    50.0	0.30561551543694404
+    75.0	0.30561551543694404
+    95.0	0.30561551543694404
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.114 internal1:0.114
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.909 C:0.909 B:0.227 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	503.5
+      MSAAligned	0.8833348437765295
+      MSAIdentity	0.3934509524775974
+      TreeHeight	1.0230000000000001
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8833348437765295
+    MSAIdentity	0.3934509524775974
+    SequencesMeanLen	503.5
+    TreeHeight	1.0230000000000001
+  }
+  Identity percentiles: {
+    5.0	0.3934509524775974
+    25.0	0.3934509524775974
+    50.0	0.3934509524775974
+    75.0	0.3934509524775974
+    95.0	0.3934509524775974
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.114 internal1:0.114
+    |               |              
+    +-------+       +-------+
+    |       |       |       |      
+    A:0.909 C:0.909 B:0.227 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4977.75
+      MSAAligned	0.8813315474767706
+      MSAIdentity	0.3896826094832244
+      TreeHeight	1.0230000000000001
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8813315474767706
+    MSAIdentity	0.3896826094832244
+    SequencesMeanLen	4977.75
+    TreeHeight	1.0230000000000001
+  }
+  Identity percentiles: {
+    5.0	0.3896826094832244
+    25.0	0.3896826094832244
+    50.0	0.3896826094832244
+    75.0	0.3896826094832244
+    95.0	0.3896826094832244
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.084 internal1:0.084
+    |               |              
+    +-----+         +-------+
+    |     |         |       |      
+    A:1.0 C:1.0     B:0.167 D:0.167
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	50.0
+      MSAAligned	0.8633333333333333
+      MSAIdentity	0.3266666666666666
+      TreeHeight	1.084
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8633333333333333
+    MSAIdentity	0.3266666666666666
+    SequencesMeanLen	50.0
+    TreeHeight	1.084
+  }
+  Identity percentiles: {
+    5.0	0.3266666666666666
+    25.0	0.3266666666666666
+    50.0	0.3266666666666666
+    75.0	0.3266666666666666
+    95.0	0.3266666666666666
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.084 internal1:0.084
+    |               |              
+    +-----+         +-------+
+    |     |         |       |      
+    A:1.0 C:1.0     B:0.167 D:0.167
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	504.0
+      MSAAligned	0.8799781564882727
+      MSAIdentity	0.41190472175792964
+      TreeHeight	1.084
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8799781564882727
+    MSAIdentity	0.41190472175792964
+    SequencesMeanLen	504.0
+    TreeHeight	1.084
+  }
+  Identity percentiles: {
+    5.0	0.41190472175792964
+    25.0	0.41190472175792964
+    50.0	0.41190472175792964
+    75.0	0.41190472175792964
+    95.0	0.41190472175792964
+  }
+  Tree: {
+    internal2
+    |        
+    +---------------+
+    |               |              
+    internal0:0.084 internal1:0.084
+    |               |              
+    +-----+         +-------+
+    |     |         |       |      
+    A:1.0 C:1.0     B:0.167 D:0.167
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4995.25
+      MSAAligned	0.8799234260192386
+      MSAIdentity	0.4082075493045992
+      TreeHeight	1.084
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8799234260192386
+    MSAIdentity	0.4082075493045992
+    SequencesMeanLen	4995.25
+    TreeHeight	1.084
+  }
+  Identity percentiles: {
+    5.0	0.4082075493045992
+    25.0	0.4082075493045992
+    50.0	0.4082075493045992
+    75.0	0.4082075493045992
+    95.0	0.4082075493045992
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.178         D:0.178
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 B:0.357
+    |                      
+    +-------+       
+    |       |      
+    A:0.714 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	50.0
+      MSAAligned	0.8899293563579277
+      MSAIdentity	0.3156998953427525
+      TreeHeight	1.2489999999999999
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8899293563579277
+    MSAIdentity	0.3156998953427525
+    SequencesMeanLen	50.0
+    TreeHeight	1.2489999999999999
+  }
+  Identity percentiles: {
+    5.0	0.3156998953427525
+    25.0	0.3156998953427525
+    50.0	0.3156998953427525
+    75.0	0.3156998953427525
+    95.0	0.3156998953427525
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.178         D:0.178
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 B:0.357
+    |                      
+    +-------+       
+    |       |      
+    A:0.714 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	490.75
+      MSAAligned	0.8626503353733005
+      MSAIdentity	0.3816280887698268
+      TreeHeight	1.2489999999999999
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8626503353733005
+    MSAIdentity	0.3816280887698268
+    SequencesMeanLen	490.75
+    TreeHeight	1.2489999999999999
+  }
+  Identity percentiles: {
+    5.0	0.3816280887698268
+    25.0	0.3816280887698268
+    50.0	0.3816280887698268
+    75.0	0.3816280887698268
+    95.0	0.3816280887698268
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.178         D:0.178
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.357 B:0.357
+    |                      
+    +-------+       
+    |       |      
+    A:0.714 C:0.714
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	5018.0
+      MSAAligned	0.8780525000844991
+      MSAIdentity	0.3661237356033271
+      TreeHeight	1.2489999999999999
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8780525000844991
+    MSAIdentity	0.3661237356033271
+    SequencesMeanLen	5018.0
+    TreeHeight	1.2489999999999999
+  }
+  Identity percentiles: {
+    5.0	0.3661237356033271
+    25.0	0.3661237356033271
+    50.0	0.3661237356033271
+    75.0	0.3661237356033271
+    95.0	0.3661237356033271
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.114         D:0.114
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 B:0.227
+    |                      
+    +-------+       
+    |       |      
+    A:0.909 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	51.5
+      MSAAligned	0.8944045025417574
+      MSAIdentity	0.37387073347857663
+      TreeHeight	1.2500000000000002
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8944045025417574
+    MSAIdentity	0.37387073347857663
+    SequencesMeanLen	51.5
+    TreeHeight	1.2500000000000002
+  }
+  Identity percentiles: {
+    5.0	0.37387073347857663
+    25.0	0.37387073347857663
+    50.0	0.37387073347857663
+    75.0	0.37387073347857663
+    95.0	0.37387073347857663
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.114         D:0.114
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 B:0.227
+    |                      
+    +-------+       
+    |       |      
+    A:0.909 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	499.75
+      MSAAligned	0.8866557150322099
+      MSAIdentity	0.38071824435191126
+      TreeHeight	1.2500000000000002
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8866557150322099
+    MSAIdentity	0.38071824435191126
+    SequencesMeanLen	499.75
+    TreeHeight	1.2500000000000002
+  }
+  Identity percentiles: {
+    5.0	0.38071824435191126
+    25.0	0.38071824435191126
+    50.0	0.38071824435191126
+    75.0	0.38071824435191126
+    95.0	0.38071824435191126
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.114         D:0.114
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.227 B:0.227
+    |                      
+    +-------+       
+    |       |      
+    A:0.909 C:0.909
+                   
+            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4981.25
+      MSAAligned	0.8789648550113283
+      MSAIdentity	0.3880591197921346
+      TreeHeight	1.2500000000000002
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8789648550113283
+    MSAIdentity	0.3880591197921346
+    SequencesMeanLen	4981.25
+    TreeHeight	1.2500000000000002
+  }
+  Identity percentiles: {
+    5.0	0.3880591197921346
+    25.0	0.3880591197921346
+    50.0	0.3880591197921346
+    75.0	0.3880591197921346
+    95.0	0.3880591197921346
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.084         D:0.084
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.167 B:0.167
+    |                      
+    +-----+         
+    |     |    
+    A:1.0 C:1.0
+               
+          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	48.75
+      MSAAligned	0.8854875886524822
+      MSAIdentity	0.4197813238770685
+      TreeHeight	1.2510000000000001
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8854875886524822
+    MSAIdentity	0.4197813238770685
+    SequencesMeanLen	48.75
+    TreeHeight	1.2510000000000001
+  }
+  Identity percentiles: {
+    5.0	0.4197813238770685
+    25.0	0.4197813238770685
+    50.0	0.4197813238770685
+    75.0	0.4197813238770685
+    95.0	0.4197813238770685
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.084         D:0.084
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.167 B:0.167
+    |                      
+    +-----+         
+    |     |    
+    A:1.0 C:1.0
+               
+          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	500.0
+      MSAAligned	0.8909530592237445
+      MSAIdentity	0.4095970357300827
+      TreeHeight	1.2510000000000001
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8909530592237445
+    MSAIdentity	0.4095970357300827
+    SequencesMeanLen	500.0
+    TreeHeight	1.2510000000000001
+  }
+  Identity percentiles: {
+    5.0	0.4095970357300827
+    25.0	0.4095970357300827
+    50.0	0.4095970357300827
+    75.0	0.4095970357300827
+    95.0	0.4095970357300827
+  }
+  Tree: {
+    internal2
+    |        
+    +-----------------------+
+    |                       |      
+    internal1:0.084         D:0.084
+    |                              
+    +---------------+       
+    |               |      
+    internal0:0.167 B:0.167
+    |                      
+    +-----+         
+    |     |    
+    A:1.0 C:1.0
+               
+          
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4979.25
+      MSAAligned	0.8782944977885809
+      MSAIdentity	0.40615425082452117
+      TreeHeight	1.2510000000000001
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8782944977885809
+    MSAIdentity	0.40615425082452117
+    SequencesMeanLen	4979.25
+    TreeHeight	1.2510000000000001
+  }
+  Identity percentiles: {
+    5.0	0.40615425082452117
+    25.0	0.40615425082452117
+    50.0	0.40615425082452117
+    75.0	0.40615425082452117
+    95.0	0.40615425082452117
+  }
+  Tree: {
+    internal2
+    |        
+    +-------+
+    |       |              
+    A:0.357 internal1:0.357
+            |              
+            +-------+
+            |       |              
+            C:0.714 internal0:0.357
+                    |              
+                    +-------+
+                    |       |      
+                    B:0.357 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	51.75
+      MSAAligned	0.8693057650410592
+      MSAIdentity	0.3177442600972013
+      TreeHeight	0.357
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8693057650410592
+    MSAIdentity	0.3177442600972013
+    SequencesMeanLen	51.75
+    TreeHeight	0.357
+  }
+  Identity percentiles: {
+    5.0	0.3177442600972013
+    25.0	0.3177442600972013
+    50.0	0.3177442600972013
+    75.0	0.3177442600972013
+    95.0	0.3177442600972013
+  }
+  Tree: {
+    internal2
+    |        
+    +-------+
+    |       |              
+    A:0.357 internal1:0.357
+            |              
+            +-------+
+            |       |              
+            C:0.714 internal0:0.357
+                    |              
+                    +-------+
+                    |       |      
+                    B:0.357 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	491.5
+      MSAAligned	0.8775638697874198
+      MSAIdentity	0.3554099853551707
+      TreeHeight	0.357
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8775638697874198
+    MSAIdentity	0.3554099853551707
+    SequencesMeanLen	491.5
+    TreeHeight	0.357
+  }
+  Identity percentiles: {
+    5.0	0.3554099853551707
+    25.0	0.3554099853551707
+    50.0	0.3554099853551707
+    75.0	0.3554099853551707
+    95.0	0.3554099853551707
+  }
+  Tree: {
+    internal2
+    |        
+    +-------+
+    |       |              
+    A:0.357 internal1:0.357
+            |              
+            +-------+
+            |       |              
+            C:0.714 internal0:0.357
+                    |              
+                    +-------+
+                    |       |      
+                    B:0.357 D:0.357
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4973.5
+      MSAAligned	0.8748299029283833
+      MSAIdentity	0.3628284306802175
+      TreeHeight	0.357
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8748299029283833
+    MSAIdentity	0.3628284306802175
+    SequencesMeanLen	4973.5
+    TreeHeight	0.357
+  }
+  Identity percentiles: {
+    5.0	0.3628284306802175
+    25.0	0.3628284306802175
+    50.0	0.3628284306802175
+    75.0	0.3628284306802175
+    95.0	0.3628284306802175
+  }
+  Tree: {
+    internal2
+    |        
+    +-------+
+    |       |              
+    A:0.455 internal1:0.455
+            |              
+            +-------+
+            |       |              
+            C:0.909 internal0:0.227
+                    |              
+                    +-------+
+                    |       |      
+                    B:0.227 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	46.75
+      MSAAligned	0.8618240225817323
+      MSAIdentity	0.32143691720031453
+      TreeHeight	0.455
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8618240225817323
+    MSAIdentity	0.32143691720031453
+    SequencesMeanLen	46.75
+    TreeHeight	0.455
+  }
+  Identity percentiles: {
+    5.0	0.32143691720031453
+    25.0	0.32143691720031453
+    50.0	0.32143691720031453
+    75.0	0.32143691720031453
+    95.0	0.32143691720031453
+  }
+  Tree: {
+    internal2
+    |        
+    +-------+
+    |       |              
+    A:0.455 internal1:0.455
+            |              
+            +-------+
+            |       |              
+            C:0.909 internal0:0.227
+                    |              
+                    +-------+
+                    |       |      
+                    B:0.227 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	509.0
+      MSAAligned	0.8722180933012611
+      MSAIdentity	0.3902163661566721
+      TreeHeight	0.455
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8722180933012611
+    MSAIdentity	0.3902163661566721
+    SequencesMeanLen	509.0
+    TreeHeight	0.455
+  }
+  Identity percentiles: {
+    5.0	0.3902163661566721
+    25.0	0.3902163661566721
+    50.0	0.3902163661566721
+    75.0	0.3902163661566721
+    95.0	0.3902163661566721
+  }
+  Tree: {
+    internal2
+    |        
+    +-------+
+    |       |              
+    A:0.455 internal1:0.455
+            |              
+            +-------+
+            |       |              
+            C:0.909 internal0:0.227
+                    |              
+                    +-------+
+                    |       |      
+                    B:0.227 D:0.227
+                                   
+                            
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	4993.5
+      MSAAligned	0.877433101277987
+      MSAIdentity	0.3856241578156807
+      TreeHeight	0.455
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.877433101277987
+    MSAIdentity	0.3856241578156807
+    SequencesMeanLen	4993.5
+    TreeHeight	0.455
+  }
+  Identity percentiles: {
+    5.0	0.3856241578156807
+    25.0	0.3856241578156807
+    50.0	0.3856241578156807
+    75.0	0.3856241578156807
+    95.0	0.3856241578156807
+  }
+  Tree: {
+    internal2
+    |        
+    +-----+
+    |     |            
+    A:0.5 internal1:0.5
+          |            
+          +-----+
+          |     |              
+          C:1.0 internal0:0.167
+                |              
+                +-------+
+                |       |      
+                B:0.167 D:0.167
+                               
+                        
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	47.0
+      MSAAligned	0.8818870742028764
+      MSAIdentity	0.3449347641952528
+      TreeHeight	0.5
+      Insertion Rate:0.7000000000000001
+      Deletion Rate:0.014
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8818870742028764
+    MSAIdentity	0.3449347641952528
+    SequencesMeanLen	47.0
+    TreeHeight	0.5
+  }
+  Identity percentiles: {
+    5.0	0.3449347641952528
+    25.0	0.3449347641952528
+    50.0	0.3449347641952528
+    75.0	0.3449347641952528
+    95.0	0.3449347641952528
+  }
+  Tree: {
+    internal2
+    |        
+    +-----+
+    |     |            
+    A:0.5 internal1:0.5
+          |            
+          +-----+
+          |     |              
+          C:1.0 internal0:0.167
+                |              
+                +-------+
+                |       |      
+                B:0.167 D:0.167
+                               
+                        
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	504.25
+      MSAAligned	0.8740901360103418
+      MSAIdentity	0.3914308056158126
+      TreeHeight	0.5
+      Insertion Rate:2.2338307903688674
+      Deletion Rate:0.004467661580737735
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8740901360103418
+    MSAIdentity	0.3914308056158126
+    SequencesMeanLen	504.25
+    TreeHeight	0.5
+  }
+  Identity percentiles: {
+    5.0	0.3914308056158126
+    25.0	0.3914308056158126
+    50.0	0.3914308056158126
+    75.0	0.3914308056158126
+    95.0	0.3914308056158126
+  }
+  Tree: {
+    internal2
+    |        
+    +-----+
+    |     |            
+    A:0.5 internal1:0.5
+          |            
+          +-----+
+          |     |              
+          C:1.0 internal0:0.167
+                |              
+                +-------+
+                |       |      
+                B:0.167 D:0.167
+                               
+                        
+  }
+  Creating replicon 0/1 {
+    Parameters:
+    Statistics: {
+      SequencesMeanLen	5010.5
+      MSAAligned	0.8798376194215568
+      MSAIdentity	0.39565399074869967
+      TreeHeight	0.5
+      Insertion Rate:7.067531393633848
+      Deletion Rate:0.0014135062787267697
+    }
+  }
+  GlobalStatistics: {
+    MSAAligned	0.8798376194215568
+    MSAIdentity	0.39565399074869967
+    SequencesMeanLen	5010.5
+    TreeHeight	0.5
+  }
+  Identity percentiles: {
+    5.0	0.39565399074869967
+    25.0	0.39565399074869967
+    50.0	0.39565399074869967
+    75.0	0.39565399074869967
+    95.0	0.39565399074869967
+  }
+  Execution directory: D:\Study\Thesis\Seq\PIPJava\state\execs\8.exec
+} [14s]

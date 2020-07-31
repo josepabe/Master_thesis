@@ -1,0 +1,22 @@
+PileUp
+
+
+
+   MSF:  74  Type: P    Check:  666   .. 
+
+ Name: A oo  Len:   74  Check:  666  Weight:  1.00
+ Name: B oo  Len:   74  Check:  666  Weight:  1.00
+ Name: C oo  Len:   74  Check:  666  Weight:  1.00
+ Name: D oo  Len:   74  Check:  666  Weight:  1.00
+
+//
+
+
+
+A               A.GA.TTAACGTC.G..CCA..CGT.T..CAACCGAAA.TTA..TCTA.T.AG.TAGTCCCTGA.GT.TTA.GG
+B               A..G.ATGAGGT.CT..C.G......G..GCAAAC.GG.TGG..TAT..TAGAACT..T.C...CA.CCCGCAC
+C               TTAC.CTCC..C..GTCC.GTTGT..T.GTAG.TA..CACTGTTCAC....T..GA.TTCGC.C.AC.TCG..A
+D               T..TCTTCA.GG..TTTA.G..CTCATAAGCG.CA....TTG..TAT.AT.TT..C.ACGT....AG.GT...G
+
+
+

@@ -1,0 +1,11 @@
+In the original TKF91 paper Maximum estimate of mu for ancestral sequence i given as 0.1.
+we fix this mu and for lengths 50, 500 and 5000 we choose lambda=mu*length of ancestor sequence/(length of ancestor sequence+1)
+
+for 50
+lambda=0.1*50/51=0.098
+
+for 500
+lambda=0.1*500/501=0.0998
+
+for 5000
+lambda=0.1*5000/5001=0.0999

@@ -1,0 +1,43 @@
+
+function Log_LK_MSA=Log_Likelihood_MSA(MSA,theta)
+% Log_Likelihood_MSA computes the Log likelihood value
+% inputs:
+% MSA= Sequence alignment
+% theta= list of model parameters [list of divergence times, mu, lambda]
+
+tList=theta{1}
+mu=theta{2}
+lamda=theta{3}
+
+Log_LK_MSA=0;
+p=1;
+
+% Blocking the MSA
+[im_block,BlkList]=Blocking(MSA);
+
+% Computing the likelihood of the immortal block
+if ~isempty(im_block)
+    Selection=im_block{1}
+    Log_LK_MSA=Log_LK_MSA+log(Lk_imBlock(Selection,mu,lamda,tList))
+else
+    Log_LK_MSA=Log_LK_MSA+log(imm_prob(im_block,tList,mu,lamda))
+end
+
+% Computing the likelihood of the all mortal blocks
+for i=1:size(BlkList,1)
+    Selection=BlkList{i}
+    Log_LK_MSA=Log_LK_MSA+log(LK_Block(Selection,mu,lamda,tList))
+end
+
+% Accounting for all died out ancestral links
+for m=1:size(MSA,1)
+    t=tList(m);
+    p=p*p_0dt(mu,lamda,t);
+end
+
+p_hidden=1/(1-(lamda*p/mu));
+
+% Final likelihood
+Log_LK_MSA=Log_LK_MSA+log(p_hidden)
+
+end
