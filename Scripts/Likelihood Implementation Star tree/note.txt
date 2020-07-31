@@ -1,0 +1,2 @@
+Import the full folder to the local system.
+-Log_Likelihood_MSA.m is the main function to call with input parameter MSA and Theta.

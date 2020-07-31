@@ -39,5 +39,6 @@ p_hidden=1/(1-(lamda*p/mu));
 
 % Final likelihood
 Log_LK_MSA=Log_LK_MSA+log(p_hidden);
-disp('The Log Likelihood is :');
+disp(strcat'The Log Likelihood is :'+ tostring(Log_LK_MSA));
+disp(Log_LK_MSA);
 end

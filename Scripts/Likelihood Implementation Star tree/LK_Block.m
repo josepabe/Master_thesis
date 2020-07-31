@@ -24,7 +24,7 @@ function LK=LK_Block(Block,mu,lamda,tList)
         prob_col=1;
         sub_col=1;
         for n=1:size(b,1)
-            leav=b{n}(2:end,:)
+            leav=b{n}(2:end,:);
             prob_col=prob_col*col_prob(leav,tList,mu,lamda);
             sub_col=sub_col*Substitution(leav,tList);
         end

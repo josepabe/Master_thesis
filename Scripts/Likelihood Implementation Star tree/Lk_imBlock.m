@@ -10,6 +10,7 @@ function LK_im=Lk_imBlock(Block,mu,lamda,tList)
     stop=(2^(n-1))-1 ;
     
     anc=[];
+    % checking if column size is 1
     if stop==0
         anc=[0;1];
     else
@@ -51,10 +52,10 @@ function LK_im=Lk_imBlock(Block,mu,lamda,tList)
                  
     end
     
-    prob_empty_im=imm_prob([],tList,mu,lamda)
+    prob_empty_im=imm_prob([],tList,mu,lamda);
     
     prob_empty_im=prob_empty_im*geom_im;
-    prob_blk=LK_Block(Block,mu,lamda,tList)
-    LK_im=LK_im+(prob_empty_im*prob_blk)
-    %include geometric prob 1-lam/mu for immortal
+    prob_blk=LK_Block(Block,mu,lamda,tList);
+    LK_im=LK_im+(prob_empty_im*prob_blk);
+    
 end
