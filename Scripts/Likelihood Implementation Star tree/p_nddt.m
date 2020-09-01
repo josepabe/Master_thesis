@@ -7,5 +7,8 @@ function prob= p_nddt(mu,lamda,t,n)
 % t= divergence time associated with the child
 % n= number of children born
 beta_val=beta(mu,lamda,t);
+%including the link
+n=n+1;
+%calculating the probability
 prob=(1-(lamda*beta_val))*((lamda*beta_val)^(n-1));
 end

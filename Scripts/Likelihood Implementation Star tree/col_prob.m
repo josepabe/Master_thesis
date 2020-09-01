@@ -9,16 +9,19 @@ function p=col_prob(leav,tList,mu,lamda)
     for i=1:size(leav,1)
             t=tList(i);
             if leav(i,1)~='-'
-                n=sum(leav(i,:)~='-');
-                x=p_nt(mu,lamda,t,n);
+                disp('P_nt')
+                n=sum(leav(i,:)~='-')
+                x=p_nt(mu,lamda,t,n)
             else
-                n=sum(leav(i,:)~='-');
+                n=sum(leav(i,:)~='-')
                 if n==0
-                    x=p_0dt(mu,lamda,t);
+                    disp('P_0dt')
+                    x=p_0dt(mu,lamda,t)
                 else
-                    x=p_ndt(mu,lamda,t,n);
+                    disp('P_ndt')
+                    x=p_ndt(mu,lamda,t,n)
                 end
             end
-            p=p*x;
+            p=p*x
     end
 end

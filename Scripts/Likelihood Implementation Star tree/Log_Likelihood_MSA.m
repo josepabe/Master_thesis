@@ -1,4 +1,3 @@
-
 function Log_LK_MSA=Log_Likelihood_MSA(MSA,theta)
 % Log_Likelihood_MSA computes the Log likelihood value
 % inputs:
@@ -14,6 +13,8 @@ p=1;
 
 % Blocking the MSA
 [im_block,BlkList]=Blocking(MSA);
+% Check blocking
+Test_blocking(im_block,BlkList)
 
 % Computing the likelihood of the immortal block
 if ~isempty(im_block)

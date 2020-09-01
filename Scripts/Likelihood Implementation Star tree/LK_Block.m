@@ -14,18 +14,18 @@ function LK=LK_Block(Block,mu,lamda,tList)
     anc=[];
     
     for i=start:stop
-        anc=[anc;de2bi(i,'left-msb')];
+        anc=[anc;de2bi(i,'left-msb')]
     end
     
     for m=1:size(anc,1)
-        nseq=sum(anc(m,:)~='-');
+        nseq=sum(anc(m,:)~=0);
         block=[anc(m,:);Block];
         b=subblocking(block);
         prob_col=1;
         sub_col=1;
         for n=1:size(b,1)
-            leav=b{n}(2:end,:);
-            prob_col=prob_col*col_prob(leav,tList,mu,lamda);
+            leav=b{n}(2:end,:)
+            prob_col=prob_col*col_prob(leav,tList,mu,lamda)
             sub_col=sub_col*Substitution(leav,tList);
         end
         gamma=(lamda/mu)^nseq;
