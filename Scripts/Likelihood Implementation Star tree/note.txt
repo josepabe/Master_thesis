@@ -1,2 +1,7 @@
 Import the full folder to the local system.
 -Log_Likelihood_MSA.m is the main function to call with input parameter MSA and Theta.
+
+Sample MSA: 
+MSA=[['-';'C';'-'] ['AT--';'--G-';'A--G'] ['G-';'TG';'--'] ['A-';'-C';'G-'] ['T-';'--';'AC']]
+Sample Theta
+theta={[0.5 0.5 0.5] 0.1 0.01}
